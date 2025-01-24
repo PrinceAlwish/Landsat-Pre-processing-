@@ -16,3 +16,4 @@
 **References**
 1. https://gis.stackexchange.com/questions/190436/what-preprocessing-is-required-when-using-landsat-for-lulc
 2. https://blogs.fu-berlin.de/reseda/landsat-8-preprocessing/
+3. https://rainforest-crc.jcu.edu.au/publications/landsat_preprocessing.pdf
